@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/yannis/yannis.github.io",
+      "folder_exclude_patterns": ["vendor/rails", "log"],
+      "file_exclude_patterns": ["*sublime*"]
+		}
+	]
+}
