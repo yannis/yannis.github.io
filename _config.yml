@@ -1,4 +1,3 @@
-source: _source
 destination: _site
 
 name: "a website name"
@@ -11,3 +10,4 @@ markdown: rdiscount
 permalink: pretty
 pygments: true
 encoding: UTF-8
+exclude: ['vendor']
