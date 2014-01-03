@@ -18,3 +18,4 @@ I'm also the co-organizer of <a href="http://meetup.com/genevarb" target="_blank
 <a href="http://twitter.com/yannis_" target="_blank" class="icon"><i class="fa fa-twitter-square"></i></a>
 <a href="http://github.com/yannis" target="_blank" class="icon"><i class="fa fa-github-square"></i></a>
 <a href="http://www.flickr.com/photos/3petitesmarionnet/" target="_blank" class="icon"><i class="fa fa-flickr"></i></a>
+<a href="mailto:yannisjaquet@mac.com" target="_blank" class="icon"><i class="fa fa-envelope"></i></a>
