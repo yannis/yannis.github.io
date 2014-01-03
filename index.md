@@ -1,12 +1,11 @@
 ---
 layout: application
-name: Yannis Jaquet
 ---
 
 Hi,
-<br>I'm <a href="http://twitter.com/_yannis" target="_blank" class="hint--bottom twitter" data-hint="twitter">Yannis Jaquet</a>.
+<br>I'm <a href="http://twitter.com/yannis_" target="_blank" class="hint--bottom twitter" data-hint="twitter">Yannis Jaquet</a>.
 
-I'm currently working at the <a href="http://genev.unige.ch/en/users/Yannis-Jaquet" target="_blank" class="hint--bottom unige" data-hint="unige">University of Geneva</a>, where I build websites and <a href="http://github.com/yannis" target="_blank" class="hint--bottom github" data-hint="github">develop</a> web applications, mostly with <a href="https://www.ruby-lang.org/en/" target="_blank" class="hint--bottom ruby" data-hint="ruby">Ruby</a>, <a href="http://http://rubyonrails.org/" target="_blank" class="hint--bottom rails" data-hint="rails">Rails</a> and since recently also with <a href="http://emberjs.com/" target="_blank" class="hint--bottom ember" data-hint="ember">Ember.js</a>.
+I'm currently working at the <a href="http://genev.unige.ch/en/users/Yannis-Jaquet" target="_blank" class="hint--bottom unige" data-hint="unige">University of Geneva</a>, where I build websites and <a href="http://github.com/yannis" target="_blank" class="hint--bottom github" data-hint="github">develop</a> web applications, mostly with <a href="https://www.ruby-lang.org" target="_blank" class="hint--bottom ruby" data-hint="ruby">Ruby</a>, <a href="http://rubyonrails.org" target="_blank" class="hint--bottom rails" data-hint="rails">Rails</a> and since recently also with <a href="http://emberjs.com" target="_blank" class="hint--bottom ember" data-hint="ember">Ember.js</a>.
 
 Here are some public websites that I've built:
 
@@ -16,6 +15,6 @@ Here are some public websites that I've built:
 
 I'm also the co-organizer of <a href="http://meetup.com/genevarb" target="_blank" class="hint--bottom meetup" data-hint="meetup">a Ruby user group</a> in Geneva.
 
-<a href="http://twitter.com/_twitter" target="_blank" class="icon"><i class="fa fa-twitter-square"></i></a>
+<a href="http://twitter.com/yannis_" target="_blank" class="icon"><i class="fa fa-twitter-square"></i></a>
 <a href="http://github.com/yannis" target="_blank" class="icon"><i class="fa fa-github-square"></i></a>
 <a href="http://www.flickr.com/photos/3petitesmarionnet/" target="_blank" class="icon"><i class="fa fa-flickr"></i></a>
