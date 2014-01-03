@@ -1,0 +1,85 @@
+// h1, h2, h3, h4, h5
+//   font-family: "alternate-gothic-no-1-d",sans-serif
+//   color: yellow
+//   padding-top: 1.2em
+
+body
+  font-family: "proxima-nova",sans-serif
+  background: #447799 url("/images/noise.png")
+  color: #cccccc
+  font:
+    size: $font-base+px
+    weight: 200
+  // font-family: "ff-meta-serif-web-pro", georgia ,serif
+  @include box-emboss(0.5, 0.05)
+  // i
+  //   font-size: 36px
+
+ul
+  list-style-type: disc
+  list-style-position: inside
+  margin: -1em auto 1.5em
+
+a, a:hover, a:visited
+  color: white
+  text-decoration: none
+  border-bottom: 2px dotted
+  // padding-left: 0.6184em
+  &.icon
+    border: 0
+
+.row
+  display: block
+  margin: 1em
+  max-width: 100%
+
+// h1:first-of-type
+//   padding-top: 1.6184em
+
+[data-hint]
+  &.twitter
+    &:after
+      content: "\f081"
+      font-family: FontAwesome
+  &.github
+    &:after
+      content: "\f092"
+      font-family: FontAwesome
+  &.unige
+    &:after
+      content: url("/images/unige-logo.png")
+      padding-bottom: 0
+  &.meetup
+    &:after
+      content: url("/images/meetup-logo.png")
+      padding-bottom: 0
+  &.ruby
+    &:after
+      content: url("/images/ruby-logo.png")
+      padding-bottom: 0
+  &.rails
+    &:after
+      content: url("/images/rails-logo.png")
+      padding-bottom: 0
+  &.ember
+    &:after
+      content: url("/images/ember-logo.png")
+      padding-bottom: 0
+
+@media only screen and (max-width: 766px)
+@media only screen and (min-width: 767px) and (max-width: 1139px)
+  body
+    font:
+      size: ($font-base*1.333333333)+px
+  .row
+    display: block
+    margin: 1em
+    max-width: 800px
+@media only screen and (min-width: 1140px)
+  body
+    font:
+      size: ($font-base*2)+px
+  .row
+    display: block
+    margin: 1em
+    max-width: 800px

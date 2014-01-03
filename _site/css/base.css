@@ -1,0 +1,6 @@
+/* line 3, ../_sass/base.sass */
+.row {
+  display: block;
+  margin: auto;
+  max-width: 800px;
+}
