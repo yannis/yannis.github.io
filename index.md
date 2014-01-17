@@ -9,6 +9,7 @@ I'm currently working at the <a href="http://genev.unige.ch/en/users/Yannis-Jaqu
 
 Here are some public websites that I've built:
 
+* <a href="http://fpb.unige.ch" target="_blank">The Paul Brönnimann Foundation</a>
 * <a href="http://biology14.unige.ch" target="_blank">Biology14 conference</a>
 * <a href="http://genev.unige.ch" target="_blank">Department of Genetics & Evolution</a>
 * <a href="http://kasaharacup.com" target="_blank">Kasahara Kendo Cup</a>
