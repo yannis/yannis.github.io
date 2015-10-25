@@ -1,0 +1,95 @@
+body
+  font-family: "proxima-nova",sans-serif
+  background: #DC0000 url("/images/noise.png")
+  color: #cccccc
+  font:
+    size: $font-base+px
+    weight: 200
+
+ul
+  list-style-type: disc
+  list-style-position: inside
+  margin: -1em auto 1.5em
+
+a, a:hover, a:visited
+  color: white
+  text-decoration: none
+  border-bottom: 2px dotted
+  &.icon
+    border: 0
+
+.row
+  display: block
+  margin: 1em
+  max-width: 100%
+
+[data-hint]
+  &.twitter
+    &:after
+      content: "\f081"
+      font-family: FontAwesome
+      font-size: larger
+  &.github
+    &:after
+      content: "\f092"
+      font-family: FontAwesome
+      font-size: larger
+  &.unige
+    &:after
+      content: url("/images/unige-logo.png")
+      padding-bottom: 0
+  &.meetup
+    &:after
+      content: url("/images/meetup-logo.png")
+      padding-bottom: 0
+  &.ruby
+    &:after
+      content: url("/images/ruby-logo.png")
+      padding-bottom: 0
+  &.rails
+    &:after
+      content: url("/images/rails-logo.png")
+      padding-bottom: 0
+  &.ember
+    &:after
+      content: url("/images/ember-logo.png")
+      padding-bottom: 0
+  &.epfl
+    &:after
+      content: url("/images/epfl-logo.png")
+      padding-bottom: 0
+  &.plantvillage
+    &:after
+      content: url("/images/plantvillage-logo.png")
+      padding-bottom: 0
+  &.railsgirls
+    &:after
+      background-image: url("/images/railsgirls-logo.png")
+      background-size: 100px
+      background-repeat: no-repeat
+      background-position: 10px 10px
+      width: 110px
+      height: 25px
+      padding: 5px
+      content: ''
+
+      // content: url("/images/railsgirls-logo.png")
+      // padding-bottom: 0
+      // width: 100px
+
+@media only screen and (min-width: 767px) and (max-width: 1139px)
+  body
+    font:
+      size: ($font-base*1.333333333)+px
+  .row
+    display: block
+    margin: 1em
+    max-width: 800px
+@media only screen and (min-width: 1140px)
+  body
+    font:
+      size: ($font-base*2)+px
+  .row
+    display: block
+    margin: 1em
+    max-width: 800px

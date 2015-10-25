@@ -2,7 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "~/railsapps/yannis.github.io"
+			"path": "~/yannis.github.io",
+      "folder_exclude_patterns": ["vendor/ruby"],
 		}
 	]
 }
