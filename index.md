@@ -9,13 +9,14 @@ I build websites and <a href="http://github.com/yannis" target="_blank" class="h
 
 I am currently working in the <a href="https://www.digitalepidemiologylab.org" target="_blank" class="hint--bottom delab" data-hint="delab">Laboratory of Digital Epidemiology</a> at <a href="http://salathelab.epfl.ch" target="_blank" class="hint--bottom epfl" data-hint="epfl">EPFL</a> where I am developing the learning platform of <a href="https://exts.epfl.ch" target="_blank" class="hint--bottom exts" data-hint="exts">the EPFL Extension School</a>.
 
-Here are some other public websites that I have built:
+Here are some public websites that I have participated in the development:
 
+* <a href="https://www.foodrepo.org" target="_blank">Food Repo</a>
 * <a href="http://kendo-geneve.ch" target="_blank">Dojo de Kendo à Genève</a>
 * <a href="http://gde.unige.ch" target="_blank">Master in Biology (GDE)</a>
 * <a href="https://bioseminars.unige.ch" target="_blank">bioSeminars</a>
 * <a href="http://forambarcoding.unige.ch" target="_blank">foramBarcoding</a>
-* <a href="http://kasaharacup.com" target="_blank">Kasahara Kendo Cup</a>
+* <a href="https://www.kasaharacup.com" target="_blank">Kasahara Kendo Cup</a>
 
 I am also the organizer of <a href="http://meetup.com/genevaweb" target="_blank" class="hint--bottom meetup" data-hint="meetup">GenevaWeb</a>, a meetup.com group for web developers in Geneva, and of <a href="http://railsgirls.com/geneva" target="_blank" class="hint--bottom railsgirls" data-hint="railsgirls">Rails Girls Geneva</a>.
 
