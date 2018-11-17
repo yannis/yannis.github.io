@@ -1,6 +1,6 @@
 body
   font-family: "proxima-nova",sans-serif
-  background: #DC0000 url("/images/noise.png")
+  background: #447799 url("/images/noise.png")
   color: #cccccc
   font:
     size: $font-base+px
@@ -38,14 +38,23 @@ a, a:hover, a:visited
     &:after
       content: url("/images/unige-logo.png")
       padding-bottom: 0
+  &.delab
+    &:after
+      content: url("/images/delab-logo.png")
+      padding-bottom: 5px
+  &.exts
+    &:after
+      content: url("/images/exts-logo.png")
+      padding-bottom: 0
   &.meetup
     &:after
-      content: url("/images/meetup-logo.png")
+      content: url("/images/genevaweb-logo.png")
       padding-bottom: 0
   &.ruby
     &:after
       content: url("/images/ruby-logo.png")
-      padding-bottom: 0
+      padding-top: 20px
+      height: 60px
   &.rails
     &:after
       content: url("/images/rails-logo.png")
@@ -53,6 +62,10 @@ a, a:hover, a:visited
   &.ember
     &:after
       content: url("/images/ember-logo.png")
+      padding-bottom: 0
+  &.react
+    &:after
+      content: url("/images/react-logo.png")
       padding-bottom: 0
   &.epfl
     &:after
