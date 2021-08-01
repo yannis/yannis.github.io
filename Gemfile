@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-ruby '2.5.3'
+ruby '2.7.3'
 
 gem "github-pages"
 gem "rdiscount"
