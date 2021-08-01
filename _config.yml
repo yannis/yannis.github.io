@@ -6,7 +6,6 @@ url: "yannis.github.io"
 
 paginate: 10
 
-markdown: rdiscount
 permalink: pretty
 highlighter: pygments
 encoding: UTF-8
